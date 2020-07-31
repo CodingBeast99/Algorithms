@@ -3,8 +3,6 @@ Algorithm is a procedure or formula for solving a problem, based on conducting a
 
 Top Computing Algorithms
 
-(According to Ohio State University)
-
 Sort
 
 Arranging data in an efficient and useful manner. These include quick sort, merge sort, counting sort and others;
